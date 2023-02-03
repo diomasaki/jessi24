@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/jessi24/static/js/main.c2dc4ced.chunk.js",
-    "main.js.map": "/jessi24/static/js/main.c2dc4ced.chunk.js.map",
+    "main.js": "/jessi24/static/js/main.aa7e82ff.chunk.js",
+    "main.js.map": "/jessi24/static/js/main.aa7e82ff.chunk.js.map",
     "runtime-main.js": "/jessi24/static/js/runtime-main.c238d412.js",
     "runtime-main.js.map": "/jessi24/static/js/runtime-main.c238d412.js.map",
     "static/js/2.466a4c0c.chunk.js": "/jessi24/static/js/2.466a4c0c.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.c238d412.js",
     "static/js/2.466a4c0c.chunk.js",
-    "static/js/main.c2dc4ced.chunk.js"
+    "static/js/main.aa7e82ff.chunk.js"
   ]
 }
